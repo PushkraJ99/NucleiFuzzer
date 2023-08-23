@@ -4,13 +4,13 @@
 **Note:** `Nuclei` + `Paramspider` = `NucleiFuzzer`
 
 ### Steps to Install:
-'''
+```sh
 git clone https://github.com/0xKayala/NucleiFuzzer.git
 cd NucleiFuzzer
 sudo chmod +x install.sh
 ./install.sh OR bash install.sh <br>
 nucleifuzzer -h
-'''
+```
 
 ### Tools included:
 [ParamSpider](https://github.com/devanshbatham/ParamSpider) `git clone https://github.com/devanshbatham/ParamSpider.git`<br>
@@ -46,6 +46,9 @@ Options:
   -d, --domain <domain>   Domain to scan for XSS, SQLi, SSRF, Open-Redirect..etc vulnerabilities
 ```  
 
+### Auther 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xKayala)
 
-Made by [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xKayala)
-Upgraded by [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
+### Upgraded by 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=PushkraJ99) 
