@@ -13,7 +13,7 @@ nucleifuzzer -h
 ```
 
 ### Tools included:
-[ParamSpider](https://github.com/devanshbatham/ParamSpider) `git clone https://github.com/devanshbatham/ParamSpider.git`<br>
+[ParamSpider](https://github.com/devanshbatham/ParamSpider) `git clone https://github.com/PushkraJ99/ParamSpider.git`<br>
 [Nuclei](https://github.com/projectdiscovery/nuclei) `git clone https://github.com/projectdiscovery/nuclei.git`
 
 ### Templates:
