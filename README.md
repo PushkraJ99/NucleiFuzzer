@@ -5,7 +5,7 @@
 
 ### Steps to Install:
 ```sh
-git clone https://github.com/0xKayala/NucleiFuzzer.git
+git clone https://github.com/PushkraJ99/NucleiFuzzer.git
 cd NucleiFuzzer
 sudo chmod +x install.sh
 ./install.sh OR bash install.sh <br>
