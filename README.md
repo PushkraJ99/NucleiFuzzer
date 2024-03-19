@@ -8,7 +8,7 @@
 git clone https://github.com/PushkraJ99/NucleiFuzzer.git
 cd NucleiFuzzer
 sudo chmod +x install.sh
-./install.sh OR bash install.sh <br>
+./install.sh OR bash install.sh
 nucleifuzzer -h
 ```
 
