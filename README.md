@@ -52,3 +52,11 @@ Options:
 ### Upgraded by 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=PushkraJ99) 
+
+### Stargazers
+[![Stargazers repo roster for @PushkraJ99/NucleiFuzzer](https://reporoster.com/stars/dark/notext/PushkraJ99/NucleiFuzzer)](https://github.com/PushkraJ99/NucleiFuzzer/stargazers)
+
+<!--- ### Forkers 
+[![Forkers repo roster for @PushkraJ99/ParamSpider](https://reporoster.com/forks/dark/notext/PushkraJ99/ParamSpider)](https://github.com/PushkraJ99/ParamSpider/network/members) -->
+
+
